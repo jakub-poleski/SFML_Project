@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include <cstdlib>
 #include <ctime>
-//tu kiedys powstanie gra //test2
+//tu kiedys powstanie gra //test2 test1
 int losowanie(int zakres)
 {
     int los =rand()%zakres;
