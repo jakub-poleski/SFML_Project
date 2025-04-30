@@ -2,6 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include <cstdlib>
 #include <ctime>
+//testtesttest
 int losowanie(int zakres)
 {
     int los =rand()%zakres;
