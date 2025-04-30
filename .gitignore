@@ -1,0 +1,8 @@
+# Ignorowanie plików build
+build/
+bin/
+obj/
+
+# Ignorowanie plików tymczasowych
+*.exe
+*.log
