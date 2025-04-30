@@ -6,3 +6,4 @@ obj/
 # Ignorowanie plików tymczasowych
 *.exe
 *.log
+*.pro.user
